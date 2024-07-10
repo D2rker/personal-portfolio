@@ -6,6 +6,17 @@ html {
 
 body {
     margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%; /* Adjust as needed */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
+.content {
+    padding: 20px;
 }
 
 article,
